@@ -1,124 +1,133 @@
 <div align="center">
 
-# Hi 👋, I'm **Ruqayya Sattar**
+# Hi 👋 I'm Ruqayya Sattar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=0AA5FF&center=true&vCenter=true&width=700&lines=React+Native+Developer;Mobile+App+Developer;2%2B+Years+of+Experience;Building+Beautiful+Android+%26+iOS+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=34&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=React+Native+Developer;2%2B+Years+Experience;Android+%26+iOS+App+Developer;Always+Learning+New+Technologies" />
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+### 💜 React Native Developer | Mobile App Developer
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+Building beautiful cross-platform applications with clean code and modern UI.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React%20Native-Expert-61DAFB?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Android%20%26%20iOS-Apps-success?style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-💙 React Native Developer with **2+ Years of Experience**
+💜 React Native Developer with **2+ Years Experience**
 
-📱 Building Android & iOS Mobile Applications
+📱 Android & iOS Mobile App Development
 
-🚀 Passionate about creating modern, responsive and scalable apps
+🔥 Firebase Integration
 
-🔥 Experienced with Firebase, REST APIs, Redux Toolkit & Context API
+🌐 REST API Integration
 
-🌱 Currently learning **Node.js & Advanced React Native**
+🎨 Pixel Perfect UI
+
+⚡ Performance Optimization
+
+🚀 Love Building Scalable Apps
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,firebase,nodejs,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,firebase,nodejs,redux,git,github,vscode,androidstudio" />
 
 </p>
 
 ---
 
-## 💼 What I Work With
+# 🚀 My Expertise
 
-✅ React Native
+✨ React Native
 
-✅ JavaScript (ES6+)
+✨ JavaScript
 
-✅ TypeScript
+✨ TypeScript
 
-✅ Redux Toolkit
+✨ Redux Toolkit
 
-✅ Context API
+✨ Context API
 
-✅ REST APIs
+✨ Firebase
 
-✅ Firebase
+✨ REST APIs
 
-✅ Axios
+✨ Axios
 
-✅ Git & GitHub
+✨ Responsive UI
 
-✅ Responsive UI
+✨ Push Notifications
+
+✨ Google Maps
+
+✨ Payment Gateway
 
 ---
 
-## 📱 Featured Projects
+# 📱 Projects
 
 🏥 Healthcare Apps
 
 🛒 E-Commerce Apps
 
-💰 Donation Applications
+💰 Donation Apps
 
 📊 Admin Panels
 
 👨‍⚕️ Doctor Appointment Apps
 
-📍 Location Based Apps
+📍 GPS Tracking Apps
 
 ---
 
-## 📊 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
+🚀 Advanced React Native
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+🚀 Node.js
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+🚀 Clean Architecture
 
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+🚀 Performance Optimization
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 🤝 Connect With Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;React+Native+Developer+💙" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
-```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Thanks+For+Visiting!;Happy+Coding!;Let's+Build+Amazing+Apps!" />
+
+</div>
